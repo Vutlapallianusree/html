@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 40px;
+    background-color:white;
+    height:60px;
+    width:100%;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    padding: 10px;
+}
+li{
+    padding:10px; 
+
+}
+.a1{
+    color:black;
+    font-weight:bold;
+    font-size: medium;
+    text-align: center;  
+    text-decoration: none;
+}
+.a1:hover{
+    /* background-color: aliceblue; */
+    text-decoration: underline;
+    text-decoration-color:blue;
+    color:blue;
+}
+section{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 40px;
+    background-image: url(./task1back.jpg);
+    height:80vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p1{
+font-size:50px;
+color:black;
+font-weight: 600;
+padding:4px;
+
+}
+.p2{
+    font-size:30px;
+    color:black;
+    font-weight: 600;
+    padding:4px; 
+    margin-top: 4px;
+}
+img{
+    border-radius: 50%;
+}
