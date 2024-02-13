@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-image: linear-gradient(rgba(128, 128, 128, 0.493),rgba(0, 0, 0, 0.521)),url(./Corpus-Christi-College-University.jpg);
+    min-height: 90vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+a{
+    margin-top: 100px;
+    text-decoration: none;
+   
+    margin-top: 100px;
+    justify-content: center;
+    
+}
+span{
+    color:brown;
+    text-align: center;
+    font-weight:bolder;
+    font-size: 40px; 
+   
+   
+    justify-content: center;
+}
+pre{
+    color:brown;
+    font-size:larger;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    padding: 20px;
+}
+li{
+    padding:20px;  
+}
+.a1{
+    color:rgb(30, 30, 107);
+    font-weight:bold;
+    font-size: x-large;
+    text-align: center;  
+    text-decoration: none;
+}
+.a1:hover{
+    /* background-color: aliceblue; */
+    text-decoration: underline;
+    text-decoration-color: brown;
+    
+}
+.textbox{
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+
+}
+h1{
+    font-size:40px;
+    font-weight: bolder;
+    color:yellow;
+}
+.p1{
+    font-size:20px;
+    font-weight: 600;
+    color:white;
+}
+.a2{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration:underline;
+    color:rgb(12, 176, 246);
+}
+.section1{
+    min-height: 60vh;
+    width:100%;
+    background-image:linear-gradient(rgb(0, 0, 0),rgba(128, 128, 128, 0.574));
+    display: flex;
+}
+.aboutus{
+    height: 200px;
+    width:50%;
+    padding-top: 150px;
+    padding-left:150px;
+    
+    
+}
+p{
+    padding: 1px;
+    font-size:50px;
+    border-left: 3px solid red;
+    padding-left: 20px;
+    color:white;
+}
+.aboutus2{
+    background-image: url(https://c0.wallpaperflare.com/preview/969/484/34/college-students-diploma-graduate-tassel.jpg);
+    min-height: 50vh;
+    width:80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:60px;
+}

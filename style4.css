@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding:0;
+}
+.div1{
+background-color:  #954535;
+height:60px;
+width: 100%;
+}
+.p1{
+color: white;
+font-size: xx-large;
+font-weight: 800;
+text-align: center;
+padding-top:12px; 
+ }
+.section1{
+background-image: linear-gradient(rgba(128, 128, 128, 0.273),rgba(0, 0, 0, 0.316)) ,url(./aboutstudents.jpg);
+min-height: 85vh;
+width:100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.p2{
+    color:white;
+    font-size:large;
+    padding:2px;
+    text-align: center;
+    
+}
+.div2{
+    /* margin-left:350px; */
+     padding-top: 400px; 
+}
+.div3{
+    margin-left: 620px;
+    padding-top:50px;
+
+}
+.p3{
+    background-color:#F2D2BD;
+    width:250px;
+    height:40px;
+    border-radius: 2px;
+    font-size: larger;
+    text-align: center;
+    padding-top: 15px;
+    color:#DC143C;
+    
+    
+   }
+   ul{
+    list-style-type: none;
+    display:flex;
+    padding: 15px;
+    
+}
+li{
+    padding:15px; 
+    
+
+}
+.a1{
+    color:white;
+    font-weight:bold; 
+    font-size: large;
+    text-align: center;  
+    text-decoration: none;
+}
+.a1:hover{
+    /* background-color: aliceblue; */
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+.section2{
+
+    background-color: rgba(226, 200, 167, 0.803);
+    min-height: 220vh;
+    width:100%;
+
+}
+.section3{
+background-image: url(./free\ courese.jpg);
+min-height: 60vh;
+width:60%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.section4{
+background-image: url(./library1.png);
+min-height: 60vh;
+width:60%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.section5{
+    background-image: url(./graduates.jpg);
+    min-height: 60vh;
+    width:60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .a2{
+        color:white;
+        font-weight:600;
+        font-size: large;
+        text-align: center;  
+        text-decoration: none;
+    }
+    .ul11{
+        list-style-type: none;
+        display:flex;
+        padding: 10px;
+    }
+    .li11{
+        padding:10px; 
+    
+    }
+    .p4{
+        background-color:#FFDEAD;
+        width:130px;
+        height:20px;
+        border-radius: 2px;
+        font-size: larger;
+        text-align: center;
+        padding-top: 5px;
+        color:#D2042D;
+       }    
+  
+
